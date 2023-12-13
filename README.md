@@ -1,4 +1,4 @@
-# OGJFW TEMPLATE
+# OBJFW TEMPLATE
 Basic ObjFW template that provides a makefile and dockerfile for building.
 
 By default `make` will build an executable named `program`, `make docker` uses docker to build the same executable and place it and the objfw shared libraries in the `docker-out` directory.
